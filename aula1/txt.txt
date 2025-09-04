@@ -1,0 +1,2 @@
+git clone https://github.com/juliodelimas/banco-api.git
+git clone https://github.com/juliodelimas/banco-web.git
